@@ -1,6 +1,6 @@
 # Implementation of Robot Learning
 
-As you must have realized by now, implementing complex algorithms can be quite a pain sometimes. It just leaves you wondering why there aren't libraries like [Keras](https://keras.io/) and [Tensorflow](https://www.tensorflow.org/) in regular Machine Learning, which make your lives so much simpler by abstracting away the nitty-gritties of implementation and lets you focus purely on the big picture. Fortunately, there are such libraries available as open-source, one of which is the [**Stable Baselines**](https://stable-baselines.readthedocs.io/en/master/) Package.
+As you must have realized by now, implementing complex algorithms can be quite a pain sometimes. It just leaves you wondering why there aren't libraries like [Keras](https://keras.io/) and [Tensorflow](https://www.tensorflow.org/) in regular Machine Learning, which make your lives so much simpler by abstracting away the nitty-gritties of implementation and lets you focus purely on the big picture. Fortunately, there are such libraries available as open-source, one of which is the [**Stable Baselines**](https://stable-baselines3.readthedocs.io/en/master/) Package.
 
 Stable Baselines is a godsend for people like us who work on RL problems quite frequently simply because it works so well across multiple environments, and is quite easy to get up and running. You may think of it as the equivalent of Keras in Reinforcement Learning.
 
